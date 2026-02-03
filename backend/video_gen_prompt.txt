@@ -1,0 +1,10 @@
+Passed to Video Generation AI (like OpenAI Sora, Runway Gen-2, or Pika):
+
+**Option 1 (CCTV Style - Recommended):**
+"Realistic CCTV security camera footage, low resolution 360p, slightly grainy and blurry. Wide shot of a construction site. On the left, a construction worker wearing a yellow helmet and safety vest is standing on top of a metal orange scaffolding tower, working at height. On the right, another worker in a vest is walking on the ground level carrying a box. Static camera angle. Realistic movement."
+
+**Option 2 (Ladder Specific):**
+"Grainy security camera footage, 240p quality. A construction worker climbing up a tall aluminum ladder leaning against a wall. The worker stops halfway up. Simultaneously, a manager in a white helmet walks past on the ground floor without touching the ladder. Indistinguishable faces, typical jobsite lighting."
+
+**Option 3 (Complex Scenario):**
+"Blurred CCTV footage of a warehouse. One worker is elevated in a scissor lift (MEWP) repairing a light. Another worker is standing firmly on the concrete floor holding a clipboard. The camera is slightly out of focus. Industrial coloring, high contrast."

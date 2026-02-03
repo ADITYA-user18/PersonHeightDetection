@@ -1,0 +1,64 @@
+Class: Person, Conf: 0.466
+Class: Person, Conf: 0.418
+Class: Person, Conf: 0.415
+Class: Person, Conf: 0.405
+Class: Person, Conf: 0.401
+Class: Clothing, Conf: 0.264
+Class: Clothing, Conf: 0.194
+Class: Clothing, Conf: 0.163
+Class: Clothing, Conf: 0.140
+Class: Footwear, Conf: 0.140
+Class: Footwear, Conf: 0.131
+Class: Footwear, Conf: 0.130
+Class: Sports equipment, Conf: 0.115
+Class: Footwear, Conf: 0.106
+Class: Clothing, Conf: 0.102
+Class: Footwear, Conf: 0.068
+Class: Footwear, Conf: 0.065
+Class: Footwear, Conf: 0.058
+Class: Sports equipment, Conf: 0.055
+Class: Footwear, Conf: 0.048
+Class: Helmet, Conf: 0.039
+Class: Footwear, Conf: 0.035
+Class: Person, Conf: 0.033
+Class: Sports equipment, Conf: 0.032
+Class: Human body, Conf: 0.028
+Class: Person, Conf: 0.027
+Class: Helmet, Conf: 0.025
+Class: Sports equipment, Conf: 0.025
+Class: Sports equipment, Conf: 0.024
+Class: Sports equipment, Conf: 0.024
+Class: Sports equipment, Conf: 0.023
+Class: Sports equipment, Conf: 0.023
+Class: Human body, Conf: 0.023
+Class: Footwear, Conf: 0.022
+Class: Footwear, Conf: 0.020
+Class: Human body, Conf: 0.019
+Class: Boy, Conf: 0.018
+Class: Human body, Conf: 0.017
+Class: Sports equipment, Conf: 0.017
+Class: Sports equipment, Conf: 0.016
+Class: Sports equipment, Conf: 0.015
+Class: Boy, Conf: 0.015
+Class: Sports uniform, Conf: 0.014
+Class: Sports equipment, Conf: 0.014
+Class: Human arm, Conf: 0.014
+Class: Sports equipment, Conf: 0.014
+Class: Sports equipment, Conf: 0.014
+Class: Human body, Conf: 0.013
+Class: Human head, Conf: 0.013
+Class: Sports equipment, Conf: 0.012
+Class: Human arm, Conf: 0.012
+Class: Footwear, Conf: 0.012
+Class: Sports equipment, Conf: 0.012
+Class: Person, Conf: 0.012
+Class: Sports equipment, Conf: 0.012
+Class: Sports equipment, Conf: 0.011
+Class: Human head, Conf: 0.011
+Class: Weapon, Conf: 0.011
+Class: Helmet, Conf: 0.011
+Class: Human arm, Conf: 0.011
+Class: Sports equipment, Conf: 0.011
+Class: Clothing, Conf: 0.011
+Class: Human arm, Conf: 0.010
+Class: Sports equipment, Conf: 0.010
